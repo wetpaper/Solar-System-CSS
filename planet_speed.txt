@@ -1,0 +1,21 @@
+Years in seconds
+
+Mercury:    7603200
+Venus:      19440000
+Earth:      31536000
+Mars:       59356800
+Jupiter:    374371200
+Saturn:     929577600
+Uranus:     2651356800
+Neptune:    5200416000
+
+(angle_i + angle_f)/360 * time/500000
+
+Mercury:    8s
+Venus:      17s
+Earth:      19s
+Mars:       29s
+Jupiter:    166s
+Saturn:     278s
+Uranus:     589s
+Neptune:    982s
